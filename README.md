@@ -1,2 +1,3 @@
-### Hi there 👋
-✔️ I’m seeking for a new job opportunity. More info and CV on https://alexhajdu.github.io.
+#### Hello there 👋
+
+✔️ I’m seeking for a new job opportunity (C++). You can find more info about me on https://alexhajdu.github.io.
