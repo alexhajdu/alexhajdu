@@ -1,4 +1,4 @@
-#### Hello there 👋
+## Hello there 👋
 
 - ✔️ I’m seeking for a new job opportunity (C++). CV on https://alexhajdu.github.io.
 - 🔭 I’m currently working on a task management plugin for Unreal Engine in the free time.
