@@ -1,18 +1,20 @@
-# Hello there 🖖
+# Hello 🖖
 
 ## Freelance status Q/A
 
-This statushttps://github.com/alexhajdu/alexhajdu/issues is updating regularly and is reflecting my current possibilities.
+> This status is updating regularly and is reflecting my current possibilities.
 
-__[Q] Can I send you my request, are you looking for the next job in the short time horizont?__<br>
-__[A]__ Unfortunately, I'm booked at the moment.<br/>~~Yes, please go ahead. I will be avaiable soon so we can talk about your project.~~
-
-__[Q] Are you avaulable to start the work right now?__<br>
+__[Q] Are you available to start the work right now?__<br>
 __[A]__ No, I'm available from _1.1.2021
 
-__[Q] What is your hourly rate?__<br>
-__[A]__ My hourly rate is 30Eur. Minimum amount invoiced is 240Eur.
+__[Q] Can I send you at least my request? Are you looking for the next freelance job in a short time horizon?__<br>
+__[A]__ Yes, you can send me your request, but please note my availability above. Because I want to deliver 100% quality, I can't take many projects at the same time. 
 
+__[Q] What is your hourly rate?__<br>
+__[A]__ My hourly rate is 30Eur. The minimum invoice is for 240Eur.
+
+__[Q] Are you looking for a full-time job?__<br>
+__[A]__ No.
 
 ## About me
 
