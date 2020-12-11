@@ -2,8 +2,6 @@
 
 ## Freelance status Q/A
 
-> This status is updating regularly and is reflecting my current possibilities.
-
 __[Q] Are you available to start the work right now?__<br>
 __[A]__ No, I'm available from 1.1.2021
 
@@ -16,11 +14,17 @@ __[A]__ It differs whether it's a consulting or programming task. We can proceed
 __[Q] What about the payment? Can we get an invoice and what are the payment options?__<br>
 __[A]__ I've got a .ltd company registered company providing services worldwide. I'm able to create an invoice and with payment options like bank wire, Paypal, or Revolut.
 
+__[Q] What's your time zone?__<br>
+__[A]__ GMT+1 ( CET )
+
 __[Q] Are you looking for a full-time job?__<br>
 __[A]__ Not at the moment.
 
+> This status is updating regularly and is reflecting my current possibilities.
+
 ## About me
 
+- Alex, based in Bratislava, Slovakia
 - 💻 In my free time, I’m working on a task management plugin for Unreal Engine
 - 📚 I'm currently reading 
   - C++ Templates(David Vandevoorde)
