@@ -12,7 +12,7 @@ __[Q] What is your hourly rate?__<br>
 __[A]__ It differs whether it's a consulting or programming task. We can proceed even with the bundle price if the task is well defined and you are requesting let's say a custom plugin.
 
 __[Q] What about the payment? Can we get an invoice and what are the payment options?__<br>
-__[A]__ I've got a .ltd company registered company providing services worldwide. I'm able to create an invoice and with payment options like bank wire, Paypal, or Revolut.
+__[A]__ I've got a .ltd registered company providing services worldwide. I'm able to create an invoice and with payment options like bank wire, Paypal, or Revolut.
 
 __[Q] What's your time zone?__<br>
 __[A]__ GMT+1 ( CET )
