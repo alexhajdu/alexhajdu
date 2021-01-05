@@ -3,13 +3,13 @@
 ## Freelance status Q/A
 
 __[Q] Are you available to start the work right now?__<br>
-__[A]__ No, I'm fully booked for the December. I'm available from 14.1.2021 for a small / mid project.
+__[A]__ No, I'm fully booked for the December. I'm available from __14.1.2021__ for a small / mid project.
 
 __[Q] Can I send you at least my request? Are you looking for the next freelance job in a short time horizon?__<br>
 __[A]__ Yes, you can send me your request, but please note my availability above. Because I want to deliver 100% quality, I don't want to take more than 1 project at the time.
 
 __[Q] What is your hourly rate?__<br>
-__[A]__ It differs whether it's a consulting or programming task. We can proceed even with the bundle price if the task is well defined and you are requesting let's say a custom plugin.
+__[A]__ The hourly rate differs whether it's a consulting or programming task. We can proceed with the bundle price if the task is well defined.
 
 __[Q] What about the payment? Can we get an invoice and what are the payment options?__<br>
 __[A]__ I've got a .ltd registered company providing services worldwide. I'm able to create an invoice and with payment options like bank wire, Paypal, or Revolut.
