@@ -1,6 +1,6 @@
 # Hello 🖖
 
-## Freelance status Q/A
+## Freelance [consulting&programming] status Q/A
 
 __[Q] Are you available for programming job right now?__<br>
 __[A]__ No, I'm not taking programming jobs at the moment.
