@@ -29,7 +29,7 @@ __[A]__ GMT+1 ( CET )
 
 - 💻 In my free time, I’m working on a task management plugin for Unreal Engine
 - 📚 I'm currently reading 
-  - C++ Templates(David Vandevoorde)
+  - [C++ Templates](David Vandevoorde)](https://amzn.to/2ZEOJKV)
   - Ikigai(Hector Garcia & Francesc Miralles)
   - Factfulness(Hans Rosling)
 - 🎤 I want to start making video tutorials about Unreal Engine and plugin creation
