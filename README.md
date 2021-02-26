@@ -36,4 +36,4 @@ __[A]__ GMT+1 ( CET )
 - ❤️ Favorite programming language: C++
 - 📜 Favourite SW development principles: YAGNI, DRY, KISS
 - 💬 Ask me about C++, Unreal Engine, Game development, Community leading, Unschooling
-- 📫 How to reach me: @alexhajdu
+- 📫 How to reach me: [@alexhajdu](https://twitter.com/alexhajdu)
