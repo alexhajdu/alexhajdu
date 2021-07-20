@@ -32,6 +32,7 @@ __[A]__ GMT+1 ( CET )
   - [C++ Templates(David Vandevoorde)](https://amzn.to/2ZEOJKV)
   - Ikigai(Hector Garcia & Francesc Miralles)
   - Factfulness(Hans Rosling)
+  - Atomic Habits (James Clear)
 - 🎤 I want to start making video tutorials about Unreal Engine and plugin creation
 - ❤️ Favorite programming language: C++
 - 📜 Favourite SW development principles: YAGNI, DRY, KISS
