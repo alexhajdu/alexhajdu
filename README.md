@@ -6,7 +6,7 @@ __[Q] Are you available for programming job right now?__<br>
 __[A]__ No, I'm not taking programming jobs at the moment.
 
 __[Q] Are you available for consulting job right now?__<br>
-__[A]__ Yes, I've capacity for consulting job!
+__[A]__ No, I'm fully booked.
 
 __[Q] Are you looking for a full-time job?__<br>
 __[A]__ Not at the moment.
