@@ -5,13 +5,13 @@
 > This status is updating regularly and is reflecting my current possibilities.
 
 __[Q] Are you available for consulting job right now?__<br>
-__[A]__ 🔓 Yes, how can I help?
+__[A]__ ✔️ Yes, how can I help?
 
 __[Q] Are you available for programming job right now?__<br>
-__[A]__ 🔐 No, I'm not taking programming jobs at the moment.
+__[A]__ ❌ No, I'm not taking programming jobs at the moment.
 
 __[Q] Are you looking for a full-time job?__<br>
-__[A]__ 🔐 No, not at the moment.
+__[A]__ ❌ No, not at the moment.
 
 __[Q] Can I send you at least my request? Are you looking for the next freelance job in a short time horizon?__<br>
 __[A]__ Yes, you can send me your request, but please note my availability above. Because I want to deliver 100% quality, I don't want to take more than 1 project at the time.
