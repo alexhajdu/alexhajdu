@@ -8,7 +8,7 @@ __[Q] Are you available for consulting job right now?__<br>
 __[A]__ ✔️ Yes, how can I help?
 
 __[Q] Are you available for programming job right now?__<br>
-__[A]__ ✔️ No, I'm not taking programming jobs at the moment.
+__[A]__ ✖️ No, I'm not taking programming jobs at the moment.
 
 __[Q] Are you looking for a full-time job?__<br>
 __[A]__ ✖️ No, not at the moment.
